@@ -1,0 +1,6 @@
+FoodGroup,ObservedHRper100g,ObservedP,CalibratedHRper100g,CalibratedP
+Red and Processed Meat,1.25,0.001,1.55,0.001
+Red Meat,1.21,0.03,1.49,0.11
+Processed Meat,1.32,0.009,1.7,0.03
+Fish,0.7,0.001,0.46,0.003
+Poultry,0.92,0.61,0.85,0.65
